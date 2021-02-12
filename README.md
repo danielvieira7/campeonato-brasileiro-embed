@@ -10,7 +10,7 @@ Para inserir a tabela do Campeonato Brasileiro em sua página, basta copiar e co
 	<iframe src="https://danielvieira7.github.io/campeonato-brasileiro-embed/" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%;"></iframe>	
 ```
 
-Com o código HTML acima, você poderá adicionar em qualquer site que quiser. Neste caso, a tabela ficará ocupando a tela inteira, para adicionar dentro de suas <div>'s e usar o estilo (CSS) que desejar, basta retirar os elementos de style: position, top e left. 
+Com o código HTML acima, você poderá adicionar em qualquer site que quiser. Neste caso, a tabela ficará ocupando a tela inteira, para adicionar dentro de suas divs e usar o estilo (CSS) que desejar, basta retirar os elementos de style: position, top e left. 
 
 ## Estilos
 
