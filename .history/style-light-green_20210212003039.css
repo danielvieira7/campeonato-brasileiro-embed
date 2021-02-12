@@ -1,0 +1,19 @@
+/* CSS by: https://codepen.io/njessen/pen/naLCv */
+table {
+    font-family: sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 115%;
+    width: 750px; 
+}
+table th {
+    background-color: #70c469;
+    color: white;
+    font-weight: normal;
+    padding: 20px 30px;
+    text-align: center;
+}
+table td {
+    background-color: #eeeeee;
+    color: #6f6f6f;
+    padding: 20px 30px;
+}
