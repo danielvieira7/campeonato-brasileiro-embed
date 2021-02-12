@@ -14,9 +14,9 @@ Com o código HTML acima, você poderá adicionar em qualquer site que quiser. N
 
 ## Estilos
 
-Além da tabela original, sem estilo, apenas as divisões padrões, você também pode utilizar qualquer uma das tabelas personalizadas.
-
 ![Tabela sem estilo](https://danielvieira7.github.io/campeonato-brasileiro-embed/screenshots/tabela-campeonato-brasileiro.jpg)
+
+Além da tabela original, sem estilo, apenas as divisões padrões, você também pode utilizar qualquer uma das tabelas personalizadas.
 
 ### Colorful Blue Purple
 [https://danielvieira7.github.io/campeonato-brasileiro-embed/?estilo=colorful-blue-purple](https://danielvieira7.github.io/campeonato-brasileiro-embed/?estilo=colorful-blue-purple)
